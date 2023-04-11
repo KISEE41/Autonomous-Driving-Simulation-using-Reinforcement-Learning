@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c80601d7efdc4fa5bc620c6b248de7f1, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  randomizeSeed: 1
+  autoFillBuildings: 1
+  huddleBuildings: 1
+  createSideWalks: 1
+  sidewalkHeight: 5.4
+  sidewalkWidth: 0.1618
+  lotWidth: 50
+  lotDepth: 50
+  lotInset: 0
+  lotsUseRoadHeight: 0
+  contourSideWalkLights: 0
+  lightSpacing: 20
+  streetLightPrefab: {fileID: 0}
+  contourSideWalkClutter: 1
+  randomizeClutterPlacement: 0
+  clutterSpacing: 30
